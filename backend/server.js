@@ -9,7 +9,10 @@ const taskRoutes = require('./routes/taskRoutes');
 const app = express();
 
 //middleware
-app.use(cors());
+app.use(cors({
+    origin: ['http://localhost:5173', 'https://task-manager-kohl-delta.vercel.app'],
+    credentials: true
+}));
 app.use(express.json())
 
 //test route
