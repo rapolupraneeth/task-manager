@@ -1,6 +1,6 @@
 import axios from 'axios';
 const API = axios.create({
-    baseURL:'https://task-manager-api-gk9s.onrender.com',
+    baseURL:import.meta.env.VITE_API_URL || 'http://localhost:5000/api',
 });
 
 //Automatically attach every token to request   
