@@ -13,7 +13,7 @@
 
 **A full-stack task management platform with Kanban boards, real-time analytics, drag-and-drop, and a stunning dark/light UI — built from scratch with the MERN stack and TypeScript.**
 
-[🚀 Live Demo](https://task-manager-kohl-delta.vercel.app/) · [📖 Documentation](https://docs.google.com/document/d/1FiO1J-5pUqkBOxDHUtSX_GHLDzb1c31V/edit?usp=sharing&ouid=111335776956199830503&rtpof=true&sd=true) · [🐛 Report Bug](praneethrapolu1222@gmail.com) · [✨ Request Feature](praneethrapolu1222@gmail.com)
+[🚀 Live Demo](https://task-manager-kohl-delta.vercel.app/) · [📖 Documentation](https://docs.google.com/document/d/1FiO1J-5pUqkBOxDHUtSX_GHLDzb1c31V/edit?usp=sharing&ouid=111335776956199830503&rtpof=true&sd=true) · [🐛 Report Bug]([praneethrapolu1222@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXXrkgqXPTjnZzrPKgFCnMwbddQgDwggggXpFmpxMFNWJtpXMVPvzRnJvKHvJSMjvKqcJK)) · [✨ Request Feature]([praneethrapolu1222@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXXrkgqXPTjnZzrPKgFCnMwbddQgDwggggXpFmpxMFNWJtpXMVPvzRnJvKHvJSMjvKqcJK))
 
 </div>
 
