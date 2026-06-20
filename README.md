@@ -13,7 +13,7 @@
 
 **A full-stack task management platform with Kanban boards, real-time analytics, drag-and-drop, and a stunning dark/light UI — built from scratch with the MERN stack and TypeScript.**
 
-[🚀 Live Demo](#) · [📖 Documentation](#) · [🐛 Report Bug](#) · [✨ Request Feature](#)
+[🚀 Live Demo](#) · [📖 Documentation](https://docs.google.com/document/d/1FiO1J-5pUqkBOxDHUtSX_GHLDzb1c31V/edit?usp=sharing&ouid=111335776956199830503&rtpof=true&sd=true) · [🐛 Report Bug](#) · [✨ Request Feature](#)
 
 </div>
 
